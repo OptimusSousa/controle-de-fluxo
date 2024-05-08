@@ -3,6 +3,8 @@ public class PlanoOperadora2 {
         
         String plano = "M"; 
 
+        System.out.println("O plano escolhido, dá direito ao/s seguinte/s benefício/s:");
+
 		switch (plano) {
 			case "T": {
 				System.out.println("5Gb Youtube");
